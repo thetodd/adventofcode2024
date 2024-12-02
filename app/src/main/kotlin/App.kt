@@ -12,6 +12,7 @@ fun main() {
     val solutionRunners = mapOf(
         "Day1" to Day1(),
         "Day2" to Day2(),
+        "Day3" to Day3(),
     )
 
     solutionRunners[day]?.let {

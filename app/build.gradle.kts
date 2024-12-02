@@ -12,6 +12,7 @@ dependencies {
     implementation(project(":utils"))
     implementation(project(":day1"))
     implementation(project(":day2"))
+    implementation(project(":day3"))
 }
 
 application {
