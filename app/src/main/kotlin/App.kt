@@ -8,7 +8,7 @@ import java.io.InputStream
 
 fun main() {
 
-    val day = "Day2"
+    val day = "Day3"
 
     val solutionRunners = mapOf(
         "Day1" to Day1(),
