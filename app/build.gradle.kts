@@ -13,6 +13,7 @@ dependencies {
     implementation(project(":day1"))
     implementation(project(":day2"))
     implementation(project(":day3"))
+    implementation(project(":day4"))
 }
 
 application {

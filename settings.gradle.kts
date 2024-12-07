@@ -26,3 +26,4 @@ rootProject.name = "adventofcode24"
 include("day1")
 include("day2")
 include("day3")
+include("day4")

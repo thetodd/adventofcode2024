@@ -3,17 +3,19 @@ package de.dailycoding.aoc.app
 import Day1
 import Day2
 import Day3
+import Day4
 import java.io.File
 import java.io.InputStream
 
 fun main() {
 
-    val day = "Day3"
+    val day = "Day4"
 
     val solutionRunners = mapOf(
         "Day1" to Day1(),
         "Day2" to Day2(),
         "Day3" to Day3(),
+        "Day4" to Day4(),
     )
 
     solutionRunners[day]?.let {
